@@ -1,0 +1,6 @@
+{
+  "name": "Secure Online Voting System",
+  "description": "Secure Online Voting System – Ensuring Authenticity through OTP Verification for college and institutional elections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
